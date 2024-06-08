@@ -10,8 +10,8 @@ These are my ideas/projects, If you'd like to make/improve them yourself, go ahe
 - [**Unitilities**](https://github.com/Loki-Hornsby/Unitilities) : A useful class for storing unity functions
 - [**Boomsatsuma Game**](https://github.com/Loki-Hornsby/The-Project) (Private) : A game for boomsatsuma college
 - [**Trash Talk**](https://github.com/Loki-Hornsby/Brackeys-Game-Jam-2021.2) : A game where you shoot trash (Kinda like "Nuclear Throne")
-- [**Ride Minecarts**](https://github.com/Loki-Hornsby/Ride-Minecart)
-- [**Hoverboard**](https://github.com/Loki-Hornsby/Hoverboard)
+- [**Ride Minecarts**](https://github.com/Loki-Hornsby/Ride-Minecart) : Ride minecarts in the game "Noita"
+- [**Hoverboard**](https://github.com/Loki-Hornsby/Hoverboard) : Ride a hoverboard in the game "Noita"
 - [**Universal Mod Engine**](https://github.com/Loki-Hornsby/Universal-Mod-Engine) : An engine to mod/patch into **Any** game.
 - [**UME.Broforce**](https://github.com/Loki-Hornsby/UME.Broforce) : A mod interface for broforce using UME (**Universal mod engine**)
 
