@@ -1,5 +1,5 @@
 # Overview 
-*(Please excuse my informality, this is both a proffessional and personal account so naturally, a conversational tone is taken.)* \
+*(Please excuse my informality, this is both a professional and personal account so naturally, a conversational tone is taken.)* \
 These are my ideas/projects, If you'd like to make/improve them yourself, go ahead. Credit (and an email showcasing it to me) would be nice to have but i understand some are selfish.
 
 ## Music Analysis
